@@ -1,0 +1,19 @@
+msmf-weight-4sim:
+
+gpcr: learn_rateA = 0.00005 learn_rateB = 0.00005  lambdaA = 32  lambdaB = 128
+
+ic: learn_rateA = 0.00005 learn_rateB = 0.00005  lambdaA = 64  lambdaB = 128
+
+nr: learn_rateA = 0.00005 learn_rateB = 0.00005  lambdaA = 16  lambdaB = 32
+
+
+
+msmf-weight-6sim:
+
+gpcr: learn_rateA = 0.00005 learn_rateB = 0.00005  lambdaA = 32  lambdaB = 128
+
+ic: learn_rateA = 0.000005 learn_rateB = 0.00005  lambdaA = 64  lambdaB = 128
+
+nr: gpcr: learn_rateA = 0.00005 learn_rateB = 0.00005  lambdaA = 0.0625  lambdaB = 32
+
+enzyme: learn_rateA = 0.0000005 learn_rateB = 0.000005  lambdaA = 512  lambdaB = 512

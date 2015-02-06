@@ -1,0 +1,79 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Ashburner \bgroup \em et al.\egroup
+  }{2000}]{ashburner2000gene}
+Michael Ashburner, Catherine~A Ball, Judith~A Blake, David Botstein, Heather
+  Butler, J~Michael Cherry, Allan~P Davis, Kara Dolinski, Selina~S Dwight,
+  Janan~T Eppig, et~al.
+\newblock Gene ontology: tool for the unification of biology.
+\newblock {\em Nature genetics}, 25(1):25--29, 2000.
+
+\bibitem[\protect\citeauthoryear{Ding \bgroup \em et al.\egroup
+  }{2013}]{ding2013similarity}
+Hao Ding, Ichigaku Takigawa, Hiroshi Mamitsuka, and Shanfeng Zhu.
+\newblock Similarity-based machine learning methods for predicting drug--target
+  interactions: a brief review.
+\newblock {\em Briefings in bioinformatics}, page bbt056, 2013.
+
+\bibitem[\protect\citeauthoryear{G{\"o}nen}{2012}]{gonen2012predicting}
+Mehmet G{\"o}nen.
+\newblock Predicting drug--target interactions from chemical and genomic
+  kernels using bayesian matrix factorization.
+\newblock {\em Bioinformatics}, 28(18):2304--2310, 2012.
+
+\bibitem[\protect\citeauthoryear{Jacob and Vert}{2008}]{jacob2008protein}
+Laurent Jacob and Jean-Philippe Vert.
+\newblock Protein-ligand interaction prediction: an improved chemogenomics
+  approach.
+\newblock {\em Bioinformatics}, 24(19):2149--2156, 2008.
+
+\bibitem[\protect\citeauthoryear{Lin}{1998}]{lin1998information}
+Dekang Lin.
+\newblock An information-theoretic definition of similarity.
+\newblock In {\em ICML}, volume~98, pages 296--304, 1998.
+
+\bibitem[\protect\citeauthoryear{Skrbo \bgroup \em et al.\egroup
+  }{2004}]{PMID:15137231}
+Armin Skrbo, Begler Begović, and Selma Skrbo.
+\newblock [classification of drugs using the atc system (anatomic, therapeutic,
+  chemical classification) and the latest changes].
+\newblock {\em Medicinski arhiv}, 58(1 Suppl 2):138—141, 2004.
+
+\bibitem[\protect\citeauthoryear{Tang \bgroup \em et al.\egroup
+  }{2013}]{tang2013exploiting}
+Jiliang Tang, Xia Hu, Huiji Gao, and Huan Liu.
+\newblock Exploiting local and global social context for recommendation.
+\newblock In {\em Proceedings of the Twenty-Third international joint
+  conference on Artificial Intelligence}, pages 2712--2718. AAAI Press, 2013.
+
+\bibitem[\protect\citeauthoryear{van Laarhoven \bgroup \em et al.\egroup
+  }{2011}]{vanLaarhoven2011}
+Twan van Laarhoven, Sander~B. Nabuurs, and Elena Marchiori.
+\newblock Gaussian interaction profile kernels for predicting drug--target
+  interaction.
+\newblock {\em Bioinformatics}, 27(21):3036--3043, November 2011.
+
+\bibitem[\protect\citeauthoryear{Xia \bgroup \em et al.\egroup
+  }{2010}]{xia2010semi}
+Zheng Xia, Ling-Yun Wu, Xiaobo Zhou, and Stephen~TC Wong.
+\newblock Semi-supervised drug-protein interaction prediction from
+  heterogeneous biological spaces.
+\newblock {\em BMC systems biology}, 4(Suppl 2):S6, 2010.
+
+\bibitem[\protect\citeauthoryear{Yamanishi \bgroup \em et al.\egroup
+  }{2008}]{yamanishi2008prediction}
+Yoshihiro Yamanishi, Michihiro Araki, Alex Gutteridge, Wataru Honda, and Minoru
+  Kanehisa.
+\newblock Prediction of drug--target interaction networks from the integration
+  of chemical and genomic spaces.
+\newblock {\em Bioinformatics}, 24(13):i232--i240, 2008.
+
+\bibitem[\protect\citeauthoryear{Zheng \bgroup \em et al.\egroup
+  }{2013}]{zheng2013collaborative}
+Xiaodong Zheng, Hao Ding, Hiroshi Mamitsuka, and Shanfeng Zhu.
+\newblock Collaborative matrix factorization with multiple similarities for
+  predicting drug-target interactions.
+\newblock In {\em Proceedings of the 19th ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, pages 1025--1033. ACM, 2013.
+
+\end{thebibliography}
